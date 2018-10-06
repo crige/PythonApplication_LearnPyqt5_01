@@ -1,0 +1,3 @@
+# PythonApplication_LearnPyqt5_01
+The first PythonApplication_L
+学习PyQt5的一些小程序记录。
